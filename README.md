@@ -60,4 +60,5 @@ Color-Picker/
 ## 🚀 Deployment
 
 This Responsive website is successfully deployed on Vercel for fast, reliable access across device
+
 🔗 Live Demo: [https://color-picker-javascript-chi.vercel.app/]
